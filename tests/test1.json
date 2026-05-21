@@ -1,0 +1,496 @@
+{
+    "id": "test1",
+    "title": "Python编程挑战赛-小学组-模拟试卷1",
+    "questions": [
+        {
+            "index": 1,
+            "type": "单选题",
+            "text": "在 Python 中，使用什么函数获取用户输入？",
+            "options": [
+                "print ()",
+                "input ()",
+                "len ()",
+                "range ()"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 2,
+            "type": "单选题",
+            "text": "以下哪项是 Python 中的单行注释符号？",
+            "options": [
+                "//",
+                "--",
+                "#",
+                "/* */"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 3,
+            "type": "单选题",
+            "text": "下面能表示字符串类型数据的是？",
+            "options": [
+                "123",
+                "3.14",
+                "True",
+                "\"python\""
+            ],
+            "correctAnswer": 3,
+            "score": 2
+        },
+        {
+            "index": 4,
+            "type": "单选题",
+            "text": "执行代码x = int(\"5\")后，变量 x 的数据类型是？",
+            "options": [
+                "字符串",
+                "整数",
+                "浮点数",
+                "布尔值"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 5,
+            "type": "单选题",
+            "text": "变量赋值使用的符号是？",
+            "options": [
+                "==",
+                "=",
+                "!=",
+                ">="
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 6,
+            "type": "单选题",
+            "text": "对于条件语句if a > 10:，若要在条件不成立时执行一段代码，应使用以下哪种结构？",
+            "options": [
+                "if a < 10:",
+                "elif a < 10:",
+                "else:",
+                "elif a == 10:"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 7,
+            "type": "单选题",
+            "text": "以下比较运算符中，用于判断两个值是否相等的是？",
+            "options": [
+                ">",
+                "<",
+                "==",
+                "!="
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 8,
+            "type": "单选题",
+            "text": "逻辑表达式(3 > 2) and (1 < 0)的结果是？",
+            "options": [
+                "True",
+                "False",
+                "1",
+                "0"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 9,
+            "type": "单选题",
+            "text": "要实现循环输入数字，直到输入的数字为 5 时停止，以下代码正确的是？",
+            "options": [
+                "```python\nwhile True:\n    num = int(input(\"请输入数字：\"))\n    if num == 5:\n        break\n```",
+                "```python\nwhile num != 5:\n    num = int(input(\"请输入数字：\"))\n```",
+                "```python\nfor i in range(10):\n    num = int(input(\"请输入数字：\"))\n    if num == 5:\n        break\n```",
+                "```python\nwhile True:\n    num = int(input(\"请输入数字：\"))\n    if num != 5:\n        break\n```"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 10,
+            "type": "单选题",
+            "text": "以下关于 Python 程序缩进规则，说法正确的是？",
+            "options": [
+                "缩进可有可无",
+                "缩进用来表示代码块，同一级代码缩进量需一致",
+                "缩进只在循环语句中起作用",
+                "缩进只在条件语句中起作用"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 11,
+            "type": "单选题",
+            "text": "导入 random 模块后，使用哪个函数生成 1 到 10（包含 1 和 10）之间的随机整数？",
+            "options": [
+                "random ()",
+                "randint (1, 10)",
+                "uniform (1, 10)",
+                "choice ([1, 2, ..., 10])"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 12,
+            "type": "单选题",
+            "text": "计算(3 + 2) * 4 / 2的结果是？",
+            "options": [
+                "10",
+                "8",
+                "6",
+                "5"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 13,
+            "type": "单选题",
+            "text": "以下创建列表的方式正确的是？",
+            "options": [
+                "my_list = (1, 2, 3)",
+                "my_list = {1, 2, 3}",
+                "my_list = [1, 2, 3]",
+                "my_list = \"1, 2, 3\""
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 14,
+            "type": "单选题",
+            "text": "已知列表lst = [10, 20, 30]，获取列表中第二个元素的索引是？",
+            "options": [
+                "lst [0]",
+                "lst [1]",
+                "lst [2]",
+                "lst [3]"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 15,
+            "type": "单选题",
+            "text": "向列表lst = [1, 2]末尾添加元素 3，应使用以下哪种方法？",
+            "options": [
+                "lst.insert (3)",
+                "lst.append (3)",
+                "lst.remove (3)",
+                "lst.pop (3)"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 16,
+            "type": "单选题",
+            "text": "要删除列表lst = [1, 2, 3]中索引为 1 的元素，应使用？",
+            "options": [
+                "lst.remove (1)",
+                "lst.pop (1)",
+                "del lst [2]",
+                "lst.clear ()"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 17,
+            "type": "单选题",
+            "text": "判断元素 2 是否在列表lst = [1, 2, 3]中，正确的表达式是？",
+            "options": [
+                "2 == lst",
+                "lst.index (2)",
+                "2 in lst",
+                "lst [2]"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 18,
+            "type": "单选题",
+            "text": "创建字典的正确方式是？",
+            "options": [
+                "my_dict = [1: \"one\", 2: \"two\"]",
+                "my_dict = (1: \"one\", 2: \"two\")",
+                "my_dict = {1: \"one\", 2: \"two\"}",
+                "my_dict = \"1: one, 2: two\""
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 19,
+            "type": "单选题",
+            "text": "已知字典d = {\"name\": \"Alice\", \"age\": 12}，获取键 \"age\" 对应的值，正确的方式是？",
+            "options": [
+                "d [\"age\"]",
+                "d.age",
+                "d.get (\"name\")",
+                "d.keys ()"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 20,
+            "type": "单选题",
+            "text": "向字典d = {\"name\": \"Bob\"}中添加键值对 \"age\": 10，正确的代码是？",
+            "options": [
+                "d [\"age\"] = 10",
+                "d.add (\"age\", 10)",
+                "d.update ({\"age\": 10}, 10)",
+                "d.append ({\"age\": 10})"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 21,
+            "type": "单选题",
+            "text": "定义函数的关键字是？",
+            "options": [
+                "function",
+                "def",
+                "create",
+                "make"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 22,
+            "type": "单选题",
+            "text": "对于函数def add(a, b): return a + b，调用add(3, 4)的返回值是？",
+            "options": [
+                "3",
+                "4",
+                "7",
+                "12"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 23,
+            "type": "单选题",
+            "text": "以下哪项不属于函数参数的作用？",
+            "options": [
+                "接收外界传入的数据",
+                "定义函数内部的变量",
+                "使函数更具通用性",
+                "决定函数的返回值类型"
+            ],
+            "correctAnswer": 3,
+            "score": 2
+        },
+        {
+            "index": 24,
+            "type": "单选题",
+            "text": "用 Python 编程解决 “计算班级学生平均成绩” 的问题，不需要用到的知识是？",
+            "options": [
+                "列表操作",
+                "四则运算",
+                "条件语句",
+                "字典操作"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 25,
+            "type": "单选题",
+            "text": "用冒泡排序算法对列表[5, 3, 1, 2, 4]进行排序，第一轮比较后列表变为？",
+            "options": [
+                "[3, 1, 2, 4, 5]",
+                "[5, 1, 2, 3, 4]",
+                "[3, 5, 1, 2, 4]",
+                "[3, 1, 5, 2, 4]"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 26,
+            "type": "判断题",
+            "text": "print()函数只能输出字符串。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 27,
+            "type": "判断题",
+            "text": "多行注释可以用三个单引号'''括起来。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 28,
+            "type": "判断题",
+            "text": "布尔值True可以和整数直接进行加法运算。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 29,
+            "type": "判断题",
+            "text": "变量在使用前必须先赋值。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 30,
+            "type": "判断题",
+            "text": "if - elif - else语句中，elif可以有多个。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 31,
+            "type": "判断题",
+            "text": "逻辑运算符or表示只要有一个条件为True，结果就为True。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 32,
+            "type": "判断题",
+            "text": "for循环只能用于遍历列表。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 33,
+            "type": "判断题",
+            "text": "Python 程序中，代码缩进错误不会影响程序运行。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 34,
+            "type": "判断题",
+            "text": "使用random.randint(1, 5)生成的随机数可能是 5.5。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 35,
+            "type": "判断题",
+            "text": "四则混合运算中，先算乘除后算加减，有括号先算括号内的。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 36,
+            "type": "判断题",
+            "text": "列表中的元素可以是不同的数据类型。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 37,
+            "type": "判断题",
+            "text": "字典中的键必须是唯一的，但值可以重复。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 38,
+            "type": "判断题",
+            "text": "函数定义中，参数可以有默认值。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 39,
+            "type": "判断题",
+            "text": "解决问题的算法只能使用一种编程知识。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 40,
+            "type": "判断题",
+            "text": "用del关键字可以删除字典中的某个键值对。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        }
+    ]
+}

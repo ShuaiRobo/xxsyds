@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>陆地物资转运初赛模拟卷</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+    <div class="header" id="testHeader">请选择试卷</div>
+
+    <div class="main-content">
+        <div class="answer-sheet">
+            <div class="test-selector">
+                <select id="testSelector">
+                    <option value="">-- 请选择试卷 --</option>
+                </select>
+                <button id="loadTestBtn">加载</button>
+            </div>
+
+            <div class="timer" id="timer">00:00:00</div>
+            <div class="score-display" id="scoreDisplay"></div>
+
+            <div id="questionTypes"></div>
+
+            <div class="question-grid" id="questionGrid"></div>
+
+            <button class="submit-btn" id="submitBtn">提交试卷</button>
+            <button class="reset-btn" id="resetBtn">重置缓存</button>
+
+
+        </div>
+
+        <div class="question-area" id="questionArea">
+            <div class="test-title" id="testTitle"></div>
+            <div id="questionsContainer"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

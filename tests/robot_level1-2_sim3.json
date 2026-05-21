@@ -1,0 +1,441 @@
+{
+  "id": "robot_level1-2_sim3",
+  "title": "全国青少年机器人等级考试1-2级模拟卷3",
+  "questions": [
+    {
+      "index": 1,
+      "type": "单选题",
+      "text": "下列哪种是费力杠杆的应用？（）",
+      "options": [
+        "撬棍",
+        "镊子",
+        "羊角锤",
+        "扳手"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 2,
+      "type": "单选题",
+      "text": "下列哪种装置能防止倒转？（）",
+      "options": [
+        "齿轮",
+        "棘轮棘爪",
+        "滑轮",
+        "杠杆"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 3,
+      "type": "单选题",
+      "text": "传送带传动属于哪种传动方式？（）",
+      "options": [
+        "齿轮传动",
+        "链传动",
+        "带传动",
+        "蜗轮蜗杆传动"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 4,
+      "type": "单选题",
+      "text": "下列哪种材料摩擦力最大？（）",
+      "options": [
+        "玻璃",
+        "金属",
+        "橡胶",
+        "塑料"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 5,
+      "type": "单选题",
+      "text": "钟表主要利用了哪种机构？（）",
+      "options": [
+        "齿轮系",
+        "滑轮组",
+        "杠杆",
+        "斜面"
+      ],
+      "correctAnswer": 0,
+      "score": 3
+    },
+    {
+      "index": 6,
+      "type": "单选题",
+      "text": "为了使机器人运动稳定，应该？（）",
+      "options": [
+        "升高重心",
+        "降低重心，增大底面积",
+        "减小底面积",
+        "以上都不对"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 7,
+      "type": "单选题",
+      "text": "指甲刀利用了哪种简单机械？（）",
+      "options": [
+        "滑轮",
+        "杠杆",
+        "轮轴",
+        "斜面"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 8,
+      "type": "单选题",
+      "text": "下列哪种传动方式具有自锁功能？（）",
+      "options": [
+        "齿轮传动",
+        "带传动",
+        "蜗轮蜗杆传动",
+        "链传动"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 9,
+      "type": "单选题",
+      "text": "荡秋千利用了什么原理？（）",
+      "options": [
+        "杠杆",
+        "滑轮",
+        "摆",
+        "斜面"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 10,
+      "type": "单选题",
+      "text": "下列哪种机器人用于工厂生产？（）",
+      "options": [
+        "家用机器人",
+        "工业机器人",
+        "军用机器人",
+        "医用机器人"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 11,
+      "type": "单选题",
+      "text": "自行车的脚踏板是哪种简单机械？（）",
+      "options": [
+        "杠杆",
+        "滑轮",
+        "轮轴",
+        "斜面"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 12,
+      "type": "单选题",
+      "text": "用滚动代替滑动可以？（）",
+      "options": [
+        "增大摩擦力",
+        "减小摩擦力",
+        "摩擦力不变",
+        "不确定"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 13,
+      "type": "单选题",
+      "text": "起重机主要利用了哪种简单机械？（）",
+      "options": [
+        "杠杆",
+        "滑轮组",
+        "轮轴",
+        "斜面"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 14,
+      "type": "单选题",
+      "text": "下列哪种结构在桥梁中常见？（）",
+      "options": [
+        "圆形结构",
+        "三角形结构",
+        "椭圆形结构",
+        "梯形结构"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 15,
+      "type": "单选题",
+      "text": "螺丝刀拧螺丝时，手柄越粗？（）",
+      "options": [
+        "越费力",
+        "越省力",
+        "不省力也不费力",
+        "不确定"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 16,
+      "type": "单选题",
+      "text": "机器人的“手脚”通常指的是？（）",
+      "options": [
+        "控制器",
+        "传感器",
+        "执行机构",
+        "电源"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 17,
+      "type": "单选题",
+      "text": "下列哪种是等臂杠杆？（）",
+      "options": [
+        "镊子",
+        "开瓶器",
+        "天平",
+        "撬棍"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 18,
+      "type": "单选题",
+      "text": "关于物体的重心，下列说法正确的是？（）",
+      "options": [
+        "只有规则物体才有重心",
+        "重心可以不在物体上",
+        "重心越高越稳定",
+        "物体的重心是固定不变的"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 19,
+      "type": "单选题",
+      "text": "自行车链条传动属于？（）",
+      "options": [
+        "齿轮传动",
+        "链传动",
+        "带传动",
+        "蜗轮蜗杆传动"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 20,
+      "type": "单选题",
+      "text": "下列哪种方法不能增加物体稳定性？（）",
+      "options": [
+        "降低重心",
+        "增大底面积",
+        "升高重心",
+        "以上都可以"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 21,
+      "type": "多选题",
+      "text": "下列哪些是费力杠杆？（）",
+      "options": [
+        "镊子",
+        "钓鱼竿",
+        "筷子",
+        "撬棍"
+      ],
+      "correctAnswer": [0, 1, 2],
+      "score": 4
+    },
+    {
+      "index": 22,
+      "type": "多选题",
+      "text": "下列哪些是轮轴的应用？（）",
+      "options": [
+        "门把手",
+        "汽车方向盘",
+        "螺丝刀",
+        "镊子"
+      ],
+      "correctAnswer": [0, 1, 2],
+      "score": 4
+    },
+    {
+      "index": 23,
+      "type": "多选题",
+      "text": "下列哪些结构具有稳定性？（）",
+      "options": [
+        "三角形",
+        "四边形",
+        "五边形",
+        "加上斜杆的四边形"
+      ],
+      "correctAnswer": [0, 3],
+      "score": 4
+    },
+    {
+      "index": 24,
+      "type": "多选题",
+      "text": "下列哪些是机器人的执行机构？（）",
+      "options": [
+        "电机",
+        "舵机",
+        "气缸",
+        "传感器"
+      ],
+      "correctAnswer": [0, 1, 2],
+      "score": 4
+    },
+    {
+      "index": 25,
+      "type": "多选题",
+      "text": "关于齿轮传动，下列说法正确的是？（）",
+      "options": [
+        "传动准确",
+        "效率高",
+        "可以改变传动方向",
+        "适合远距离传动"
+      ],
+      "correctAnswer": [0, 1, 2],
+      "score": 4
+    },
+    {
+      "index": 26,
+      "type": "判断题",
+      "text": "滑轮组既能省力也能改变力的方向。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 27,
+      "type": "判断题",
+      "text": "物体的重心一定在物体上。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 28,
+      "type": "判断题",
+      "text": "斜面越平缓越省力。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 29,
+      "type": "判断题",
+      "text": "链传动能保证准确的传动比。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 30,
+      "type": "判断题",
+      "text": "摩擦力越大越好。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 31,
+      "type": "判断题",
+      "text": "杠杆的支点一定在中间。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 32,
+      "type": "判断题",
+      "text": "蜗轮蜗杆传动的效率很高。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 33,
+      "type": "判断题",
+      "text": "凸轮机构可以将旋转运动转化为往复运动。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 34,
+      "type": "判断题",
+      "text": "机器人都需要人来操作才能工作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 35,
+      "type": "判断题",
+      "text": "底面积越大，物体越稳定。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    }
+  ]
+}

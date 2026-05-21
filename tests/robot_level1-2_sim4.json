@@ -1,0 +1,441 @@
+{
+  "id": "robot_level1-2_sim4",
+  "title": "全国青少年机器人等级考试1-2级模拟卷4",
+  "questions": [
+    {
+      "index": 1,
+      "type": "单选题",
+      "text": "下列哪种是省力杠杆？（）",
+      "options": [
+        "镊子",
+        "钓鱼竿",
+        "撬棍",
+        "筷子"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 2,
+      "type": "单选题",
+      "text": "电风扇主要利用了哪种简单机械？（）",
+      "options": [
+        "杠杆",
+        "滑轮",
+        "轮轴",
+        "斜面"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 3,
+      "type": "单选题",
+      "text": "下列哪种传动方式适合远距离传动？（）",
+      "options": [
+        "齿轮传动",
+        "带传动",
+        "蜗轮蜗杆传动",
+        "都不行"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 4,
+      "type": "单选题",
+      "text": "下列哪种材料最轻？（）",
+      "options": [
+        "金属",
+        "塑料",
+        "木材",
+        "石材"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 5,
+      "type": "单选题",
+      "text": "下列哪种机器人用于探测？（）",
+      "options": [
+        "扫地机器人",
+        "工业机器人",
+        "太空探测机器人",
+        "娱乐机器人"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 6,
+      "type": "单选题",
+      "text": "下列哪种方法不能减小摩擦力？（）",
+      "options": [
+        "加润滑油",
+        "使接触面变光滑",
+        "增大压力",
+        "用滚动代替滑动"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 7,
+      "type": "单选题",
+      "text": "下列哪种结构容易变形？（）",
+      "options": [
+        "三角形",
+        "四边形",
+        "三角形和四边形都容易变形",
+        "都不容易变形"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 8,
+      "type": "单选题",
+      "text": "下列哪种简单机械用于改变力的方向？（）",
+      "options": [
+        "动滑轮",
+        "定滑轮",
+        "斜面",
+        "轮轴"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 9,
+      "type": "单选题",
+      "text": "下列哪种是斜面的应用？（）",
+      "options": [
+        "剪刀",
+        "斧头",
+        "门把手",
+        "跷跷板"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 10,
+      "type": "单选题",
+      "text": "关于轮轴，下列说法正确的是？（）",
+      "options": [
+        "轮越大越费力",
+        "轮越大越省力",
+        "轮的大小不影响省力",
+        "以上都不对"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 11,
+      "type": "单选题",
+      "text": "下列哪种装置能将直线运动转化为旋转运动？（）",
+      "options": [
+        "齿轮",
+        "滑轮",
+        "曲柄滑块",
+        "杠杆"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 12,
+      "type": "单选题",
+      "text": "机器人的“眼睛”通常指的是？（）",
+      "options": [
+        "电机",
+        "传感器",
+        "控制器",
+        "机械结构"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 13,
+      "type": "单选题",
+      "text": "当动力臂等于阻力臂时，杠杆是？（）",
+      "options": [
+        "省力杠杆",
+        "费力杠杆",
+        "等臂杠杆",
+        "不确定"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 14,
+      "type": "单选题",
+      "text": "下列哪种机构用于钟表？（）",
+      "options": [
+        "滑轮组",
+        "齿轮系",
+        "杠杆",
+        "斜面"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 15,
+      "type": "单选题",
+      "text": "履带式机器人适合在什么地形行驶？（）",
+      "options": [
+        "平坦地面",
+        "不平坦地面",
+        "只适合水面",
+        "只适合空中"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 16,
+      "type": "单选题",
+      "text": "螺丝钉利用了哪种简单机械？（）",
+      "options": [
+        "杠杆",
+        "滑轮",
+        "斜面",
+        "轮轴"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 17,
+      "type": "单选题",
+      "text": "两个相互啮合的齿轮，主动轮有10齿，从动轮有20齿，当主动轮转4圈时，从动轮转几圈？（）",
+      "options": [
+        "8圈",
+        "4圈",
+        "2圈",
+        "1圈"
+      ],
+      "correctAnswer": 2,
+      "score": 3
+    },
+    {
+      "index": 18,
+      "type": "单选题",
+      "text": "下列哪种不是简单机械？（）",
+      "options": [
+        "杠杆",
+        "滑轮",
+        "斜面",
+        "电机"
+      ],
+      "correctAnswer": 3,
+      "score": 3
+    },
+    {
+      "index": 19,
+      "type": "单选题",
+      "text": "为了使物体稳定，我们应该？（）",
+      "options": [
+        "尽量减小底面积",
+        "尽量降低重心",
+        "尽量升高重心",
+        "以上都可以"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 20,
+      "type": "单选题",
+      "text": "下列哪种传动方式有噪声？（）",
+      "options": [
+        "带传动",
+        "齿轮传动",
+        "链传动",
+        "都没有"
+      ],
+      "correctAnswer": 1,
+      "score": 3
+    },
+    {
+      "index": 21,
+      "type": "多选题",
+      "text": "下列哪些是省力杠杆？（）",
+      "options": [
+        "撬棍",
+        "羊角锤",
+        "镊子",
+        "扳手"
+      ],
+      "correctAnswer": [0, 1, 3],
+      "score": 4
+    },
+    {
+      "index": 22,
+      "type": "多选题",
+      "text": "下列哪些是简单机械？（）",
+      "options": [
+        "杠杆",
+        "滑轮",
+        "轮轴",
+        "斜面"
+      ],
+      "correctAnswer": [0, 1, 2, 3],
+      "score": 4
+    },
+    {
+      "index": 23,
+      "type": "多选题",
+      "text": "下列哪些结构不稳定？（）",
+      "options": [
+        "三角形",
+        "四边形",
+        "五边形",
+        "有斜杆的四边形"
+      ],
+      "correctAnswer": [1, 2],
+      "score": 4
+    },
+    {
+      "index": 24,
+      "type": "多选题",
+      "text": "下列哪些是机器人的组成部分？（）",
+      "options": [
+        "机械结构",
+        "驱动系统",
+        "控制系统",
+        "传感系统"
+      ],
+      "correctAnswer": [0, 1, 2, 3],
+      "score": 4
+    },
+    {
+      "index": 25,
+      "type": "多选题",
+      "text": "下列哪些方法可以减小摩擦力？（）",
+      "options": [
+        "加润滑油",
+        "使接触面变光滑",
+        "用滚动代替滑动",
+        "增大压力"
+      ],
+      "correctAnswer": [0, 1, 2],
+      "score": 4
+    },
+    {
+      "index": 26,
+      "type": "判断题",
+      "text": "定滑轮可以省力。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 27,
+      "type": "判断题",
+      "text": "动滑轮不能改变力的方向。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 28,
+      "type": "判断题",
+      "text": "斜面越陡越费力。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 29,
+      "type": "判断题",
+      "text": "物体的重心一定在物体内部。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 30,
+      "type": "判断题",
+      "text": "两个相互啮合的齿轮转动方向相同。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 31,
+      "type": "判断题",
+      "text": "棘轮棘爪机构可以防止倒转。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 32,
+      "type": "判断题",
+      "text": "带传动的传动比是准确的。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    },
+    {
+      "index": 33,
+      "type": "判断题",
+      "text": "机器人可以帮助人类完成危险的工作。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 34,
+      "type": "判断题",
+      "text": "轮轴是杠杆的变形。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 0,
+      "score": 2
+    },
+    {
+      "index": 35,
+      "type": "判断题",
+      "text": "滑轮组只能省力，不能改变力的方向。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "correctAnswer": 1,
+      "score": 2
+    }
+  ]
+}

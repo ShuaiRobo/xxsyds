@@ -1,0 +1,506 @@
+{
+    "id": "test2",
+    "title": "Python编程挑战赛-小学组-初赛-模拟试卷2",
+    "questions": [
+        {
+            "index": 1,
+            "type": "单选题",
+            "text": "Python中，以下哪个是合法的变量名？",
+            "options": [
+                "2abc",
+                "abc2",
+                "if",
+                "@abc"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 2,
+            "type": "单选题",
+            "text": "已知 a = 3，b = 4，那么 a ** b 的结果是？",
+            "options": [
+                "12",
+                "64",
+                "81",
+                "7"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 3,
+            "type": "单选题",
+            "text": "以下哪个函数可以将整数转换为字符串？",
+            "options": [
+                "str ()",
+                "float ()",
+                "int ()",
+                "bool ()"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 4,
+            "type": "单选题",
+            "text": "在Python中，要从列表中删除指定索引位置的元素，可以使用以下哪种方法？",
+            "options": [
+                "remove ()",
+                "pop ()",
+                "index()",
+                "以上都可以"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 5,
+            "type": "单选题",
+            "text": "以下代码执行后，打印出的内容是:```python\nx = 10\ny = 20\nz = x\nif x < y:\n    print(x)\nelse:\n    print(y)\n```",
+            "options": [
+                "5",
+                "10",
+                "20",
+                "代码报错"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 6,
+            "type": "单选题",
+            "text": "Python中，以下哪种数据类型可以存储键值对？",
+            "options": [
+                "列表",
+                "元组",
+                "字典",
+                "集合"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 7,
+            "type": "单选题",
+            "text": "random.randint(1, 10)生成的随机数范围是？（随机数）",
+            "options": [
+                "1到9",
+                "1到10",
+                "0到10",
+                "0到9"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 8,
+            "type": "单选题",
+            "text": "已知 s = \"123\"，要将其转换为整数，可以使用以下哪种方法？",
+            "options": [
+                "int (s)",
+                "float (s)",
+                "str (s)",
+                "bool (s)"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 9,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：```python\na = [1, 2, 3]\nb = a\nb.append(4)\nprint(a)\n```",
+            "options": [
+                "[1, 2, 3]",
+                "[1, 2, 3, 4]",
+                "[4]",
+                "以上都不对"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 10,
+            "type": "单选题",
+            "text": "在Python中，用于生成随机整数的函数是？",
+            "options": [
+                "random ()",
+                "randint ()",
+                "uniform ()",
+                "choice ()"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 11,
+            "type": "单选题",
+            "text": "以下哪个是Python中的比较运算符？",
+            "options": [
+                "+",
+                "*",
+                "==",
+                "%"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 12,
+            "type": "单选题",
+            "text": "以下代码中，循环会执行几次？```python\ni = 0\nwhile i < 5:\n    print(i)\n    i += 1\n```",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "0"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 13,
+            "type": "单选题",
+            "text": "已知 d = {'name': 'Alice', 'age': 12}，要判断 'name' 是否在字典的键中，可以使用以下哪种方式？",
+            "options": [
+                "'name' in d",
+                "'name' in d.keys ()",
+                "以上两种都可以",
+                "以上两种都不可以"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 14,
+            "type": "单选题",
+            "text": "以下哪个函数可以用于对列表进行排序？",
+            "options": [
+                "sort ()",
+                "sorted ()",
+                "以上两种都可以",
+                "以上两种都不可以"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 15,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：```python\ns = \"hello\"\nprint(s[1])\n```",
+            "options": [
+                "h",
+                "e",
+                "l",
+                "o"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 16,
+            "type": "单选题",
+            "text": "在Python中，用于处理随机的模块是？",
+            "options": [
+                "random",
+                "math",
+                "time",
+                "os"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 17,
+            "type": "单选题",
+            "text": "以下代码中，if语句的条件判断结果是？```python\nx = []\nif x:\n    print(\"True\")\nelse:\n    print(\"False\")\n```",
+            "options": [
+                "True",
+                "False",
+                "代码报错",
+                "以上都不对"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 18,
+            "type": "单选题",
+            "text": "已知 s = \"Python Programming\"，要获取其中的\"Python\"部分，可以使用以下哪种方法？",
+            "options": [
+                "s[0:6]",
+                "s[1:6]",
+                "s[0:5]",
+                "以上均不正确"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 19,
+            "type": "单选题",
+            "text": "以下哪个是Python中的赋值运算符？",
+            "options": [
+                "！=",
+                "==",
+                "+=",
+                "以上都是"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 20,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：```python\na = 10\nb = 20\na, b = b, a\nprint(a, b)\n```",
+            "options": [
+                "10 20",
+                "20 10",
+                "10 10",
+                "20 20"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 21,
+            "type": "单选题",
+            "text": "在Python中，要创建一个空字典，可以使用以下哪种方式？",
+            "options": [
+                "d = {}",
+                "d = dict ()",
+                "以上两种都可以",
+                "以上两种都不可以"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 22,
+            "type": "单选题",
+            "text": "以下代码中，函数的参数是？```python\ndef func(a, b):\n    return a + b\n```",
+            "options": [
+                "a",
+                "b",
+                "a 和 b",
+                "以上都不对"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 23,
+            "type": "单选题",
+            "text": "已知 s = \"hello\"，t=123，要将两个变量拼接，可以使用以下哪种方法？",
+            "options": [
+                "s+t",
+                "s*t",
+                "s+str(t)",
+                "以上都不可以"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 24,
+            "type": "单选题",
+            "text": "以下哪个是Python中的逻辑运算符？",
+            "options": [
+                "not",
+                "or",
+                "and",
+                "以上都是"
+            ],
+            "correctAnswer": 3,
+            "score": 2
+        },
+        {
+            "index": 25,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：```python\na = 5\nb = '3'\nprint(a + b)\n```",
+            "options": [
+                "5",
+                "3",
+                "7",
+                "程序会报错"
+            ],
+            "correctAnswer": 3,
+            "score": 2
+        },
+        {
+            "index": 26,
+            "type": "单选题",
+            "text": "在Python中，要生成随机数，可以使用以下哪个模块？",
+            "options": [
+                "random",
+                "math",
+                "time",
+                "os"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 27,
+            "type": "单选题",
+            "text": "以下代码中，会输出什么？```python\na = 5\nb = a+5\nif a>b:\n    print(True)\nelse:\n    print(False)\n```",
+            "options": [
+                "True",
+                "False",
+                "10",
+                "程序会报错"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 28,
+            "type": "单选题",
+            "text": "已知 a = [1, 2, 3]，b = [4, 5, 6]，要将a和b合并，并存储到变量c中,变成[1,2,3,4,5,6]，可以使用哪种方法？",
+            "options": [
+                "c = a + b",
+                "c = [a, b]",
+                "以上两种都可以",
+                "以上两种都不可以"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 29,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：```python\ns = {'name':'Alex', 'age':10}\nprint(s['age'])\n```",
+            "options": [
+                "10",
+                " 'age'",
+                "'name'",
+                "'Alex'"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 30,
+            "type": "单选题",
+            "text": "在Python中，要获取随机整数，可以使用以下哪个模块的函数？",
+            "options": [
+                "random",
+                "math",
+                "time",
+                "os"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 31,
+            "type": "判断题",
+            "text": "Python是一种面向对象的编程语言。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 32,
+            "type": "判断题",
+            "text": "在Python中，列表的元素可以修改。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 33,
+            "type": "判断题",
+            "text": "字符串的索引可以是负数。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 34,
+            "type": "判断题",
+            "text": "字典中的值不能更改。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 4
+        },
+        {
+            "index": 35,
+            "type": "判断题",
+            "text": "循环结构中的break语句可以跳出整个循环。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 36,
+            "type": "判断题",
+            "text": "函数可以有多个参数。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 37,
+            "type": "判断题",
+            "text": "input()函数可以返回字符串或数字类型。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 4
+        },
+        {
+            "index": 38,
+            "type": "判断题",
+            "text": "字典支持索引操作。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 4
+        },
+        {
+            "index": 39,
+            "type": "判断题",
+            "text": "在Python中，使用input()函数可以不填任何参数。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 40,
+            "type": "判断题",
+            "text": "print('python'[0:5])，可以输出python。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 4
+        }
+    ]
+}

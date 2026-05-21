@@ -1,0 +1,32 @@
+{
+    "id": "例子",
+    "title": "例子",
+    "questions": [
+        {
+            "index":1,
+            "type": "单选题",
+            "text": "执行以下代码后，`x` 的值是多少？\n```python\nx = 5 + 3 * 2\n```",
+            "options": [
+                "10",
+                "11",
+                "16",
+                "报错"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index":2,
+            "type": "单选题",
+            "text": "哪个选项能正确计算 1+2+3？",
+            "options": [
+                "```python\nsum([1, 2, 3])\n```",
+                "```python\n1 + 2 + 3\n```",
+                "```python\nfor i in range(3):\n    i += 1\n```",
+                "```python\nprint(1, 2, 3)\n```"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        }
+    ]
+}

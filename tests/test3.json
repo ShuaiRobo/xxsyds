@@ -1,0 +1,506 @@
+{
+    "id": "test3",
+    "title": "Python编程挑战赛-小学组-模拟试卷3",
+    "questions": [
+        {
+            "index": 1,
+            "type": "单选题",
+            "text": "以下哪个是 Python 中用于表示多行注释的符号？",
+            "options": [
+                "//",
+                "#",
+                "''' '''",
+                "--"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 2,
+            "type": "单选题",
+            "text": "已知 a = 7，b = 3，那么 a //b 的结果是？",
+            "options": [
+                "2",
+                "2.333...",
+                "1",
+                "0"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 3,
+            "type": "单选题",
+            "text": "以下哪个函数可以将浮点数转换为整数？",
+            "options": [
+                "str ()",
+                "float ()",
+                "int ()",
+                "bool ()"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 4,
+            "type": "单选题",
+            "text": "在 Python 中，要向列表的指定位置插入一个元素，可以使用以下哪种方法？",
+            "options": [
+                "append ()",
+                "insert ()",
+                "remove ()",
+                "pop ()"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 5,
+            "type": "单选题",
+            "text": "以下代码执行后，z 的值是：x = 10; y = 20; z = y; if x < y: print(x); else: print(y)",
+            "options": [
+                "10",
+                "20",
+                "30",
+                "代码报错"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 6,
+            "type": "单选题",
+            "text": "Python 中，以下哪种数据类型不允许重复元素？",
+            "options": [
+                "列表",
+                "元组",
+                "字典",
+                "集合"
+            ],
+            "correctAnswer": 3,
+            "score": 2
+        },
+        {
+            "index": 7,
+            "type": "单选题",
+            "text": "以下代码的输出是什么？d = {1: \"a\", 2: \"b\"}; d[1] = \"c\"; print(d)",
+            "options": [
+                "{1: \"a\", 2: \"b\"}",
+                "{1: \"c\", 2: \"b\"}",
+                "{\"a\": 1, \"b\": 2}",
+                "KeyError"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 8,
+            "type": "单选题",
+            "text": "已知 s = \"3.14\"，要将其转换为浮点数，正确的方法是？",
+            "options": [
+                "int (s)",
+                "float (s)",
+                "str (s)",
+                "bool (s)"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 9,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：```python\na = [1, 2, 3]\nb = a[:]\nb.append(4)\nprint(a)\n```",
+            "options": [
+                "[1, 2, 3]",
+                "[1, 2, 3, 4]",
+                "[4]",
+                "以上都不对"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 10,
+            "type": "单选题",
+            "text": "字典的键值对之间用什么符号分隔？",
+            "options": [
+                ",",
+                ":",
+                ";",
+                "->"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 11,
+            "type": "单选题",
+            "text": "以下哪个是 Python 中的逻辑非运算符？",
+            "options": [
+                "and",
+                "or",
+                "not",
+                "%"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 12,
+            "type": "单选题",
+            "text": "以下代码中，循环会执行几次？\n```python\nfor i in range(1, 6, 2):\n    print(i)\n```",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 13,
+            "type": "单选题",
+            "text": "已知 d = {'city': 'Beijing', 'population': 2154}，获取字典中所有值的方法是？",
+            "options": [
+                "d.values ()",
+                "d.keys ()",
+                "d.items ()",
+                "以上都不对"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 14,
+            "type": "单选题",
+            "text": "以下哪个函数可以对列表进行降序排序并返回新列表？",
+            "options": [
+                "sort (reverse=True)",
+                "sorted (reverse=True)",
+                "以上两种都可以",
+                "以上两种都不可以"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 15,
+            "type": "单选题",
+            "text": "以下代码的输出是什么？d = {\"name\": \"Alice\", \"age\": 20}; print(d.keys())",
+            "options": [
+                "[\"name\", \"age\"]",
+                "{\"name\", \"age\"}",
+                "(\"name\", \"age\")",
+                "\"name\", \"age\""
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 16,
+            "type": "单选题",
+            "text": "在 Python 中，用于计算平方根的函数所属模块是？",
+            "options": [
+                "random",
+                "math",
+                "time",
+                "os"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 17,
+            "type": "单选题",
+            "text": "以下代码中，if 语句的条件判断结果是？x = 0.0; if x: print(\"True\"); else: print(\"False\")",
+            "options": [
+                "True",
+                "False",
+                "代码报错",
+                "以上都不对"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 18,
+            "type": "单选题",
+            "text": "已知 s = \"Python is great\"，判断字符串是否包含 'is' 的方法有？",
+            "options": [
+                "'is' in s",
+                "s.find ('is') != -1",
+                "以上两种都可以",
+                "以上两种都不可以"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 19,
+            "type": "单选题",
+            "text": "以下哪个是 Python 中的复合赋值运算符？",
+            "options": [
+                "=",
+                "==",
+                "*=",
+                "以上都是"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 20,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：a = [1, 2, 3]; b = a; a = [4, 5, 6]; print(b)",
+            "options": [
+                "[1, 2, 3]",
+                "[4, 5, 6]",
+                "[]",
+                "以上都不对"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 21,
+            "type": "单选题",
+            "text": "在 Python 中，创建一个字典的正确方式是？",
+            "options": [
+                "s = {}",
+                "s = dict ()",
+                "以上两种都可以",
+                "以上两种都不可以"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 22,
+            "type": "单选题",
+            "text": "以下代码中，函数的返回值类型是？def func(): return None",
+            "options": [
+                "int",
+                "str",
+                "NoneType",
+                "以上都不对"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 23,
+            "type": "单选题",
+            "text": "如何向字典d中添加新键值对\"z\": 3？",
+            "options": [
+                "d.append(\"z\": 3)",
+                "d[\"z\"] = 3",
+                "d.add({\"z\": 3})",
+                "d.update(\"z\", 3)"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 24,
+            "type": "单选题",
+            "text": "以下代码的输出是什么？d = {\"x\": 1, \"y\": 2}; print(d[\"x\"]",
+            "options": [
+                "1",
+                "2",
+                "{\"x\": 1}",
+                "KeyError"
+            ],
+            "correctAnswer": 0,
+            "score": 2
+        },
+        {
+            "index": 25,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：a = 5; print(a > 1)",
+            "options": [
+                "5",
+                "True",
+                "2",
+                "20"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 26,
+            "type": "单选题",
+            "text": "在 Python 中，获取时间的模块是？",
+            "options": [
+                "random",
+                "math",
+                "time",
+                "os"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 27,
+            "type": "单选题",
+            "text": "以下哪种方式可以正确创建一个包含3个字符串的列表？",
+            "options": [
+                "list = (\"a\", \"b\", \"c\")",
+                "list = [\"a\", \"b\", \"c\"]",
+                "list = {\"a\", \"b\", \"c\"}",
+                "list = \"a\", \"b\", \"c\""
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 28,
+            "type": "单选题",
+            "text": "以下代码的输出是什么？nums = [1, 2, 3]; nums.append([4, 5]); print(nums)",
+            "options": [
+                "[1, 2, 3, 4, 5]",
+                "[1, 2, 3, [4, 5]]",
+                "[1, 2, 3, 4], [5]",
+                "Error"
+            ],
+            "correctAnswer": 1,
+            "score": 2
+        },
+        {
+            "index": 29,
+            "type": "单选题",
+            "text": "以下代码的输出结果是：s = \"hello\"; print(s[0:5:2])",
+            "options": [
+                "hello",
+                "hel",
+                "hl",
+                "hlo"
+            ],
+            "correctAnswer": 2,
+            "score": 2
+        },
+        {
+            "index": 30,
+            "type": "单选题",
+            "text": "如何获取列表[10, 20, 30, 40]中最后一个元素？",
+            "options": [
+                "list[3]",
+                "list[-1]",
+                "list[len(list)]",
+                "以上均可以"
+            ],
+            "correctAnswer": 3,
+            "score": 2
+        },
+        {
+            "index": 31,
+            "type": "判断题",
+            "text": "Python 是一种解释型的编程语言。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 32,
+            "type": "判断题",
+            "text": "在 Python 中，列表可以嵌套。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 33,
+            "type": "判断题",
+            "text": "字符串的切片操作不会改变原字符串。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 34,
+            "type": "判断题",
+            "text": "字典中的键必须是唯一的。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 35,
+            "type": "判断题",
+            "text": "循环结构中的 continue 语句可以跳过本次循环，继续下一次循环。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 36,
+            "type": "判断题",
+            "text": "函数可以没有返回值。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 37,
+            "type": "判断题",
+            "text": "break可以结束一段代码中的所有循环。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 4
+        },
+        {
+            "index": 38,
+            "type": "判断题",
+            "text": "列表可以进行加法运算。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 0,
+            "score": 4
+        },
+        {
+            "index": 39,
+            "type": "判断题",
+            "text": "列表的sort()方法会返回一个新列表，原列表不变。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 4
+        },
+        {
+            "index": 40,
+            "type": "判断题",
+            "text": " Python列表的索引是从1开始的。",
+            "options": [
+                "√",
+                "×"
+            ],
+            "correctAnswer": 1,
+            "score": 4
+        }
+    ]
+}
