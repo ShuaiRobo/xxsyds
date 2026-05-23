@@ -38,7 +38,7 @@
         "既不省力也不费力",
         "不确定"
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "score": 3
     },
     {
@@ -407,12 +407,12 @@
     {
       "index": 33,
       "type": "判断题",
-      "text": "轮轴的轮越大越省力。",
+      "text": "轮轴的轮越大一定越省力。",
       "options": [
         "正确",
         "错误"
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "score": 2
     },
     {
