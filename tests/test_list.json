@@ -30,5 +30,21 @@
     {
         "id": "primary_4-6_grade",
         "name": "小学组（4-6年级）初赛试卷"
+    },
+    {
+        "id": "primary_1-3_grade_a",
+        "name": "小学低年级组（1-3年级）试卷A"
+    },
+    {
+        "id": "primary_1-3_grade_b",
+        "name": "小学低年级组（1-3年级）试卷B"
+    },
+    {
+        "id": "primary_4-6_grade_a",
+        "name": "小学高年级组（4-6年级）试卷A"
+    },
+    {
+        "id": "primary_4-6_grade_b",
+        "name": "小学高年级组（4-6年级）试卷B"
     }
 ]
