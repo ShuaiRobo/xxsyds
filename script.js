@@ -577,6 +577,14 @@ function showAnswersAfterSubmit() {
             feedback.textContent = `✗ 回答错误！你的答案：${userAnswerLetters}，正确答案：${correctAnswerLetters}`;
             feedback.classList.add('incorrect');
         }
+        
+        // 显示解析
+        if (question.explanation) {
+            const explanation = document.createElement('div');
+            explanation.className = 'explanation';
+            explanation.innerHTML = `<strong>解析：</strong>${question.explanation}`;
+            feedback.appendChild(explanation);
+        }
 
         // 更新选项样式以显示正确答案
         const options = document.querySelectorAll(`.option-item[data-question-number="${questionNumber}"]`);

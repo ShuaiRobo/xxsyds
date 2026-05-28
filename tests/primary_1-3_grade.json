@@ -13,7 +13,8 @@
                 "省力杠杆"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "定滑轮改变力的方向，不省力"
         },
         {
             "index": 2,
@@ -26,7 +27,8 @@
                 "停止"
             ],
             "correctAnswer": 2,
-            "score": 2
+            "score": 2,
+            "explanation": "大带小为加速"
         },
         {
             "index": 3,
@@ -39,7 +41,8 @@
                 "35cm×35cm"
             ],
             "correctAnswer": 2,
-            "score": 2
+            "score": 2,
+            "explanation": "规则要求长宽≤30cm"
         },
         {
             "index": 4,
@@ -52,7 +55,8 @@
                 "50"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "完全升起得20分，未完全升起10分"
         },
         {
             "index": 5,
@@ -65,7 +69,8 @@
                 "小车冲出地图后，选手应立即用手取回小车"
             ],
             "correctAnswer": 2,
-            "score": 2
+            "score": 2,
+            "explanation": "安全与规则要求，比赛开始后选手不得遥控或触碰小车"
         },
         {
             "index": 6,
@@ -78,7 +83,8 @@
                 "旋转拔出"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "规则明确“向上翻起”"
         },
         {
             "index": 7,
@@ -91,7 +97,8 @@
                 "被困物资模型"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "备用应急能源需要被运送到能源架"
         },
         {
             "index": 8,
@@ -104,7 +111,8 @@
                 "只记录时间，不影响成绩"
             ],
             "correctAnswer": 2,
-            "score": 2
+            "score": 2,
+            "explanation": "准备环节超时会取消该轮比赛资格"
         },
         {
             "index": 9,
@@ -117,7 +125,8 @@
                 "棘轮机构"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "链传动可远距同向"
         },
         {
             "index": 10,
@@ -130,7 +139,8 @@
                 "裁判发出准备指令后小车自行启动"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "出发指选手手动启动静止小车"
         },
         {
             "index": 11,
@@ -143,7 +153,8 @@
                 "该任务满分20分"
             ],
             "correctAnswer": [0, 1, 3],
-            "score": 4
+            "score": 4,
+            "explanation": "小低组物资清点不包含珍贵物资，不需要送入保护站"
         },
         {
             "index": 12,
@@ -156,7 +167,8 @@
                 "整个比赛期间小车从未离开出发区"
             ],
             "correctAnswer": [0, 1, 3],
-            "score": 4
+            "score": 4,
+            "explanation": "选手举手示意后裁判同意停止属于正常结束"
         },
         {
             "index": 13,
@@ -169,7 +181,8 @@
                 "在裁判口头指令“3、2、1、开始”后启动小车"
             ],
             "correctAnswer": [0, 1, 3],
-            "score": 4
+            "score": 4,
+            "explanation": "比赛中触碰小车会取消资格"
         },
         {
             "index": 14,
@@ -182,7 +195,8 @@
                 "比赛结束时若道具与参赛小车接触，该道具任务得0分"
             ],
             "correctAnswer": [0, 1, 3],
-            "score": 4
+            "score": 4,
+            "explanation": "被损坏的道具任务得0分"
         },
         {
             "index": 15,
@@ -195,7 +209,8 @@
                 "链传动的应用场合"
             ],
             "correctAnswer": [0, 1],
-            "score": 4
+            "score": 4,
+            "explanation": "凸轮、链传动为二级内容"
         },
         {
             "index": 16,
@@ -206,7 +221,8 @@
                 "错误"
             ],
             "correctAnswer": 0,
-            "score": 2
+            "score": 2,
+            "explanation": "自动变形超标有效"
         },
         {
             "index": 17,
@@ -217,7 +233,8 @@
                 "错误"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "每个样本得10分"
         },
         {
             "index": 18,
@@ -228,7 +245,8 @@
                 "错误"
             ],
             "correctAnswer": 0,
-            "score": 2
+            "score": 2,
+            "explanation": "不要求巡线，但需保持一驱动轮在印刷部分"
         },
         {
             "index": 19,
@@ -239,7 +257,8 @@
                 "错误"
             ],
             "correctAnswer": 0,
-            "score": 2
+            "score": 2,
+            "explanation": "正投影完全在出发区得20分"
         },
         {
             "index": 20,
@@ -250,7 +269,8 @@
                 "错误"
             ],
             "correctAnswer": 1,
-            "score": 2
+            "score": 2,
+            "explanation": "最多可搭载4个电机或舵机"
         }
     ]
 }
