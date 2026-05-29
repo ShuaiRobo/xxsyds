@@ -1,5 +1,29 @@
 [
     {
+        "id": "primary_1-3_grade_a",
+        "name": "小学低年级组（1-3年级）模拟卷A"
+    },
+    {
+        "id": "primary_1-3_grade_b",
+        "name": "小学低年级组（1-3年级）模拟卷B"
+    },
+    {
+        "id": "primary_1-3_grade_c",
+        "name": "小学低年级组（1-3年级）模拟卷C"
+    },
+    {
+        "id": "primary_4-6_grade_a",
+        "name": "小学高年级组（4-6年级）模拟卷A"
+    },
+    {
+        "id": "primary_4-6_grade_b",
+        "name": "小学高年级组（4-6年级）模拟卷B"
+    },
+    {
+        "id": "primary_4-6_grade_c",
+        "name": "小学高年级组（4-6年级）模拟卷C"
+    },
+    {
         "id": "robot_level1-2_sim1",
         "name": "陆地物资转运初赛模拟卷1"
     },
@@ -22,29 +46,5 @@
     {
         "id": "test_zc1",
         "name": "智创生态挑战赛-初赛-真题1"
-    },
-    {
-        "id": "primary_1-3_grade",
-        "name": "小学组（1-3年级）初赛试卷"
-    },
-    {
-        "id": "primary_4-6_grade",
-        "name": "小学组（4-6年级）初赛试卷"
-    },
-    {
-        "id": "primary_1-3_grade_a",
-        "name": "小学低年级组（1-3年级）试卷A"
-    },
-    {
-        "id": "primary_1-3_grade_b",
-        "name": "小学低年级组（1-3年级）试卷B"
-    },
-    {
-        "id": "primary_4-6_grade_a",
-        "name": "小学高年级组（4-6年级）试卷A"
-    },
-    {
-        "id": "primary_4-6_grade_b",
-        "name": "小学高年级组（4-6年级）试卷B"
     }
 ]
